@@ -1,5 +1,5 @@
 # ELSA-RX-580-SP-BIOS-MOD
-Bios Mod to make the Elsa RX 580 SP to a Original RX 570 Sapphire
+Bios Mod to make the Elsa RX 580 SP to a Original RX 570 Sapphire (For MACOS compatibility)
 
 Make it on your own risk 
 
